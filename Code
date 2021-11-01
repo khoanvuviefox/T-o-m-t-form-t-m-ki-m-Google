@@ -1,0 +1,5 @@
+<form method=GET action="http://www.google.com.vn/search">
+     <a href="http://www.google.com.vn/search?safe=vss"><img border="0" width="115" height="45" src="https://vi.m.wikipedia.org/wiki/T%E1%BA%ADp_tin:Google_logo_(2013-2015).svg" align="absmiddle"></a>
+     <input type="text" name="q"/>
+     <input type="submit" value="Tìm kiếm"/>
+</form>
